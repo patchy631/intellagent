@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./docs/figures/intellagent_logo.png" alt="IntellAgent Logo" width="600">
+ <img src="./docs/figures/intellagent_logo.png" alt="IntellAgent Logo" width="400">
  
  <p><i>Uncover Your Agent's Blind Spots</i></p>
 
@@ -13,8 +13,6 @@
 </div>
 
 Simulate interactions, analyze performance, and gain actionable insights for conversational agents. Test, evaluate, and optimize your agent to ensure reliable real-world deployment.
-
-IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents. By simulating thousands of realistic, challenging interactions, IntellAgent stress-tests agents to uncover hidden failure points. These insights enhance agent performance, reliability, and user experience.
 
 ### Key Features
 
